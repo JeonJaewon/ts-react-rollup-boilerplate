@@ -7,6 +7,6 @@ A minimal boilerplate for building React components/libraries using TypeScript a
 - React 18
 - TypeScript 5
 - Rollup bundling
-- Babel transpilation
+- SWC transpilation
 - ESLint for linting
 - Prettier for code formatting
